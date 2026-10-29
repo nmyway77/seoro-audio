@@ -30,7 +30,7 @@ for jf in sorted(glob.glob('_tts_jobs/*.json')):
                                      open(f'{OUT}/voices.json','w',encoding='utf-8'),ensure_ascii=False,indent=1); print('  voices',len(V['voices']))
     for it in J.get('items',[]):
         mp3=f"{OUT}/{it['out']}.mp3"
-        if os.path.exists(mp3): print('  skip',it['out']); continue
+        if os.path.exists(mp3) or os.path.exists(f"{OUT}/{it['out']}.json"): print('  skip',it['out']); continue
         body=dict(text=it['text'],model_id=it.get('model','eleven_multilingual_v2'))
         if it.get('settings'): body['voice_settings']=it['settings']
         R=call(f"/text-to-speech/{it['voice']}/with-timestamps?output_format=mp3_44100_128",body)
