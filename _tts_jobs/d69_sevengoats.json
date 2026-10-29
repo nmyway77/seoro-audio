@@ -1,0 +1,64 @@
+{
+"items": [
+{
+"out": "sevengoats_p1_cen",
+"voice": "C9fbwSpEaejywLWx722Z",
+"text": "Once upon a time. <break time=\"0.8s\" /> There was a mother goat. <break time=\"0.8s\" /> She had seven young goats. <break time=\"0.8s\" /> And loved them all. <break time=\"0.8s\" /> One day. <break time=\"0.8s\" /> She went into the forest. <break time=\"0.8s\" /> For food. <break time=\"0.8s\" /> Do not open the door. <break time=\"0.8s\" /> For the wolf. <break time=\"0.8s\" /> She said. <break time=\"0.8s\" /> He has a rough voice. <break time=\"0.8s\" /> And black feet. <break time=\"0.8s\" /> Soon there was a knock. <break time=\"0.8s\" /> At the door. <break time=\"0.8s\" /> Open the door, children. <break time=\"0.8s\" /> Your mother is here. <break time=\"0.8s\" /> Your voice is rough. <break time=\"0.8s\" /> You are the wolf. <break time=\"0.8s\" /> They cried."
+},
+{
+"out": "sevengoats_p1_fen",
+"voice": "C9fbwSpEaejywLWx722Z",
+"text": "Once upon a time, there was a mother goat. <break time=\"0.8s\" /> She had seven young goats and loved them all. <break time=\"0.8s\" /> One day, she went into the forest for food. <break time=\"0.8s\" /> Do not open the door for the wolf, she said. <break time=\"0.8s\" /> He has a rough voice and black feet. <break time=\"0.8s\" /> Soon there was a knock at the door. <break time=\"0.8s\" /> Open the door, children, Your mother is here. <break time=\"0.8s\" /> Your voice is rough, You are the wolf, they cried."
+},
+{
+"out": "sevengoats_p1_ckr",
+"voice": "ksaI0TCD9BstzEzlxj4q",
+"text": "옛날 옛적에. <break time=\"0.8s\" /> 엄마 염소 한 마리가 있었다. <break time=\"0.8s\" /> 엄마에게는 아기 염소 일곱 마리가 있었다. <break time=\"0.8s\" /> 그리고 아기들을 모두 사랑했다. <break time=\"0.8s\" /> 어느 날. <break time=\"0.8s\" /> 엄마는 숲속으로 갔다. <break time=\"0.8s\" /> 먹을 것을 구하러. <break time=\"0.8s\" /> 문을 열어 주면 안 된다. <break time=\"0.8s\" /> 늑대에게는. <break time=\"0.8s\" /> 엄마가 말했다. <break time=\"0.8s\" /> 늑대는 목소리가 거칠단다. <break time=\"0.8s\" /> 그리고 발이 까맣단다. <break time=\"0.8s\" /> 곧 똑똑 소리가 났다. <break time=\"0.8s\" /> 문에서. <break time=\"0.8s\" /> 얘들아, 문 열어라. <break time=\"0.8s\" /> 엄마가 왔단다. <break time=\"0.8s\" /> 목소리가 거칠어요. <break time=\"0.8s\" /> 당신은 늑대예요. <break time=\"0.8s\" /> 아기 염소들이 외쳤다."
+},
+{
+"out": "sevengoats_p2_cen",
+"voice": "C9fbwSpEaejywLWx722Z",
+"text": "The wolf went away. <break time=\"0.8s\" /> And bought some chalk. <break time=\"0.8s\" /> He ate it. <break time=\"0.8s\" /> And his voice became soft. <break time=\"0.8s\" /> He came back. <break time=\"0.8s\" /> But he put his black paw. <break time=\"0.8s\" /> On the window. <break time=\"0.8s\" /> Our mother. <break time=\"0.8s\" /> Does not have black feet. <break time=\"0.8s\" /> They said. <break time=\"0.8s\" /> Then the wolf went to the baker. <break time=\"0.8s\" /> The baker put soft dough. <break time=\"0.8s\" /> On his feet. <break time=\"0.8s\" /> Next he went to the miller. <break time=\"0.8s\" /> For white flour. <break time=\"0.8s\" /> The miller was afraid. <break time=\"0.8s\" /> So he put flour. <break time=\"0.8s\" /> On the wolfs feet."
+},
+{
+"out": "sevengoats_p2_fen",
+"voice": "C9fbwSpEaejywLWx722Z",
+"text": "The wolf went away and bought some chalk. <break time=\"0.8s\" /> He ate it, and his voice became soft. <break time=\"0.8s\" /> He came back, but he put his black paw on the window. <break time=\"0.8s\" /> Our mother does not have black feet, they said. <break time=\"0.8s\" /> Then the wolf went to the baker. <break time=\"0.8s\" /> The baker put soft dough on his feet. <break time=\"0.8s\" /> Next, he went to the miller for white flour. <break time=\"0.8s\" /> The miller was afraid, so he put flour on the wolfs feet."
+},
+{
+"out": "sevengoats_p2_ckr",
+"voice": "ksaI0TCD9BstzEzlxj4q",
+"text": "늑대는 가 버렸다. <break time=\"0.8s\" /> 그리고 분필을 조금 샀다. <break time=\"0.8s\" /> 늑대는 분필을 먹었다. <break time=\"0.8s\" /> 그러자 목소리가 부드러워졌다. <break time=\"0.8s\" /> 늑대는 다시 왔다. <break time=\"0.8s\" /> 하지만 까만 발을 올려놓았다. <break time=\"0.8s\" /> 창문에. <break time=\"0.8s\" /> 우리 엄마는. <break time=\"0.8s\" /> 발이 까맣지 않아요. <break time=\"0.8s\" /> 아기 염소들이 말했다. <break time=\"0.8s\" /> 그러자 늑대는 빵집 주인에게 갔다. <break time=\"0.8s\" /> 빵집 주인은 말랑한 반죽을 발라 주었다. <break time=\"0.8s\" /> 늑대의 발에. <break time=\"0.8s\" /> 다음으로 늑대는 방앗간 주인에게 갔다. <break time=\"0.8s\" /> 하얀 밀가루를 얻으러. <break time=\"0.8s\" /> 방앗간 주인은 겁이 났다. <break time=\"0.8s\" /> 그래서 밀가루를 뿌려 주었다. <break time=\"0.8s\" /> 늑대의 발에."
+},
+{
+"out": "sevengoats_p3_cen",
+"voice": "C9fbwSpEaejywLWx722Z",
+"text": "The wolf came back. <break time=\"0.8s\" /> For the third time. <break time=\"0.8s\" /> Show us your paw first. <break time=\"0.8s\" /> The little goats said. <break time=\"0.8s\" /> The paw was white. <break time=\"0.8s\" /> So they opened the door. <break time=\"0.8s\" /> Oh no it was the wolf. <break time=\"0.8s\" /> They hid under the table. <break time=\"0.8s\" /> In the bed. <break time=\"0.8s\" /> And in the oven. <break time=\"0.8s\" /> The wolf found six goats. <break time=\"0.8s\" /> And swallowed them whole. <break time=\"0.8s\" /> But he did not find the youngest. <break time=\"0.8s\" /> In the big clock. <break time=\"0.8s\" /> The wolf lay down. <break time=\"0.8s\" /> Under a tree. <break time=\"0.8s\" /> And fell asleep."
+},
+{
+"out": "sevengoats_p3_fen",
+"voice": "C9fbwSpEaejywLWx722Z",
+"text": "The wolf came back for the third time. <break time=\"0.8s\" /> Show us your paw first, the little goats said. <break time=\"0.8s\" /> The paw was white, so they opened the door. <break time=\"0.8s\" /> Oh no, it was the wolf. <break time=\"0.8s\" /> They hid under the table, in the bed, and in the oven. <break time=\"0.8s\" /> The wolf found six goats and swallowed them whole. <break time=\"0.8s\" /> But he did not find the youngest in the big clock. <break time=\"0.8s\" /> The wolf lay down under a tree and fell asleep."
+},
+{
+"out": "sevengoats_p3_ckr",
+"voice": "ksaI0TCD9BstzEzlxj4q",
+"text": "늑대가 다시 왔다. <break time=\"0.8s\" /> 세 번째로. <break time=\"0.8s\" /> 먼저 발을 보여 주세요. <break time=\"0.8s\" /> 아기 염소들이 말했다. <break time=\"0.8s\" /> 발이 하얬다. <break time=\"0.8s\" /> 그래서 아기 염소들은 문을 열었다. <break time=\"0.8s\" /> 아이고 그건 늑대였다. <break time=\"0.8s\" /> 아기 염소들은 탁자 밑에 숨었다. <break time=\"0.8s\" /> 침대 속에도. <break time=\"0.8s\" /> 그리고 화덕 안에도. <break time=\"0.8s\" /> 늑대는 아기 염소 여섯 마리를 찾아냈다. <break time=\"0.8s\" /> 그리고 통째로 꿀꺽 삼켰다. <break time=\"0.8s\" /> 하지만 늑대는 막내를 찾지 못했다. <break time=\"0.8s\" /> 커다란 시계 안에 숨은. <break time=\"0.8s\" /> 늑대는 드러누웠다. <break time=\"0.8s\" /> 나무 아래에. <break time=\"0.8s\" /> 그리고 잠이 들었다."
+},
+{
+"out": "sevengoats_p4_cen",
+"voice": "C9fbwSpEaejywLWx722Z",
+"text": "Soon the mother came home. <break time=\"0.8s\" /> The door was open. <break time=\"0.8s\" /> Only the youngest answered. <break time=\"0.8s\" /> I am in the clock, Mother. <break time=\"0.8s\" /> Under the tree. <break time=\"0.8s\" /> Something moved. <break time=\"0.8s\" /> In the sleeping wolfs tummy. <break time=\"0.8s\" /> Mother cut a little hole. <break time=\"0.8s\" /> With her scissors. <break time=\"0.8s\" /> Out jumped six little goats. <break time=\"0.8s\" /> Safe and happy. <break time=\"0.8s\" /> They put stones in the tummy. <break time=\"0.8s\" /> And Mother sewed it up. <break time=\"0.8s\" /> The heavy, thirsty wolf. <break time=\"0.8s\" /> Fell into the well. <break time=\"0.8s\" /> With a splash. <break time=\"0.8s\" /> The wolf is gone. <break time=\"0.8s\" /> The goats cried. <break time=\"0.8s\" /> And they danced."
+},
+{
+"out": "sevengoats_p4_fen",
+"voice": "C9fbwSpEaejywLWx722Z",
+"text": "Soon the mother came home, The door was open. <break time=\"0.8s\" /> Only the youngest answered, I am in the clock, Mother. <break time=\"0.8s\" /> Under the tree, something moved in the sleeping wolfs tummy. <break time=\"0.8s\" /> Mother cut a little hole with her scissors. <break time=\"0.8s\" /> Out jumped six little goats, safe and happy. <break time=\"0.8s\" /> They put stones in the tummy, and Mother sewed it up. <break time=\"0.8s\" /> The heavy, thirsty wolf fell into the well with a splash. <break time=\"0.8s\" /> The wolf is gone, the goats cried, and they danced."
+},
+{
+"out": "sevengoats_p4_ckr",
+"voice": "ksaI0TCD9BstzEzlxj4q",
+"text": "곧 엄마가 집에 돌아왔다. <break time=\"0.8s\" /> 문이 열려 있었다. <break time=\"0.8s\" /> 막내만 대답했다. <break time=\"0.8s\" /> 엄마, 저 시계 안에 있어요. <break time=\"0.8s\" /> 나무 아래에서. <break time=\"0.8s\" /> 무언가가 꿈틀거렸다. <break time=\"0.8s\" /> 잠든 늑대의 배 속에서. <break time=\"0.8s\" /> 엄마는 작은 구멍을 냈다. <break time=\"0.8s\" /> 가위로. <break time=\"0.8s\" /> 아기 염소 여섯 마리가 뛰어나왔다. <break time=\"0.8s\" /> 무사히, 기쁘게. <break time=\"0.8s\" /> 염소들은 배 속에 돌을 넣었다. <break time=\"0.8s\" /> 그리고 엄마는 그 자리를 꿰매었다. <break time=\"0.8s\" /> 무겁고 목마른 늑대는. <break time=\"0.8s\" /> 우물에 빠졌다. <break time=\"0.8s\" /> 첨벙 하고. <break time=\"0.8s\" /> 늑대가 사라졌다. <break time=\"0.8s\" /> 염소들이 외쳤다. <break time=\"0.8s\" /> 그리고 춤을 추었다."
+}
+]
+}

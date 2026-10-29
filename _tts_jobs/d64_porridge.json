@@ -1,0 +1,64 @@
+{
+"items": [
+{
+"out": "porridge_p1_cen",
+"voice": "C9fbwSpEaejywLWx722Z",
+"text": "Once there was a poor girl. <break time=\"0.8s\" /> She lived. <break time=\"0.8s\" /> With her mother. <break time=\"0.8s\" /> The girl was good and kind. <break time=\"0.8s\" /> But they had nothing to eat. <break time=\"0.8s\" /> One day. <break time=\"0.8s\" /> The girl went. <break time=\"0.8s\" /> Into the forest. <break time=\"0.8s\" /> There she met an old woman. <break time=\"0.8s\" /> The old woman knew. <break time=\"0.8s\" /> About her trouble. <break time=\"0.8s\" /> She gave the girl. <break time=\"0.8s\" /> A little pot."
+},
+{
+"out": "porridge_p1_fen",
+"voice": "C9fbwSpEaejywLWx722Z",
+"text": "Once there was a poor girl. <break time=\"0.8s\" /> She lived with her mother. <break time=\"0.8s\" /> The girl was good and kind. <break time=\"0.8s\" /> But they had nothing to eat. <break time=\"0.8s\" /> One day the girl went into the forest. <break time=\"0.8s\" /> There she met an old woman. <break time=\"0.8s\" /> The old woman knew about her trouble. <break time=\"0.8s\" /> She gave the girl a little pot."
+},
+{
+"out": "porridge_p1_ckr",
+"voice": "ksaI0TCD9BstzEzlxj4q",
+"text": "옛날에 가난한 소녀가 있었어요. <break time=\"0.8s\" /> 소녀는 살았어요. <break time=\"0.8s\" /> 엄마와 함께. <break time=\"0.8s\" /> 소녀는 착하고 친절했어요. <break time=\"0.8s\" /> 하지만 두 사람은 먹을 것이 하나도 없었어요. <break time=\"0.8s\" /> 어느 날. <break time=\"0.8s\" /> 소녀는 갔어요. <break time=\"0.8s\" /> 숲속으로. <break time=\"0.8s\" /> 거기에서 소녀는 한 할머니를 만났어요. <break time=\"0.8s\" /> 할머니는 알고 있었어요. <break time=\"0.8s\" /> 소녀의 어려운 사정을. <break time=\"0.8s\" /> 할머니는 소녀에게 주었어요. <break time=\"0.8s\" /> 작은 냄비를 하나."
+},
+{
+"out": "porridge_p2_cen",
+"voice": "C9fbwSpEaejywLWx722Z",
+"text": "The old woman told her. <break time=\"0.8s\" /> About the magic pot. <break time=\"0.8s\" /> The girl said. <break time=\"0.8s\" /> Cook, little pot, cook. <break time=\"0.8s\" /> Then the pot cooked. <break time=\"0.8s\" /> Sweet porridge. <break time=\"0.8s\" /> Then she said. <break time=\"0.8s\" /> Stop, little pot. <break time=\"0.8s\" /> And the pot stopped. <break time=\"0.8s\" /> The girl took the pot home. <break time=\"0.8s\" /> To her mother. <break time=\"0.8s\" /> They were not hungry anymore. <break time=\"0.8s\" /> They ate sweet porridge. <break time=\"0.8s\" /> Any time they wanted."
+},
+{
+"out": "porridge_p2_fen",
+"voice": "C9fbwSpEaejywLWx722Z",
+"text": "The old woman told her about the magic pot. <break time=\"0.8s\" /> The girl said, Cook, little pot, cook. <break time=\"0.8s\" /> Then the pot cooked sweet porridge. <break time=\"0.8s\" /> Then she said, Stop, little pot. <break time=\"0.8s\" /> And the pot stopped. <break time=\"0.8s\" /> The girl took the pot home to her mother. <break time=\"0.8s\" /> They were not hungry anymore. <break time=\"0.8s\" /> They ate sweet porridge any time they wanted."
+},
+{
+"out": "porridge_p2_ckr",
+"voice": "ksaI0TCD9BstzEzlxj4q",
+"text": "할머니는 소녀에게 말해 주었어요. <break time=\"0.8s\" /> 마법 냄비에 대해. <break time=\"0.8s\" /> 소녀가 말했어요. <break time=\"0.8s\" /> 끓어라, 작은 냄비야, 끓어라. <break time=\"0.8s\" /> 그러자 냄비가 끓였어요. <break time=\"0.8s\" /> 달콤한 죽을. <break time=\"0.8s\" /> 그다음 소녀가 말했어요. <break time=\"0.8s\" /> 멈춰라, 작은 냄비야. <break time=\"0.8s\" /> 그러자 냄비가 멈췄어요. <break time=\"0.8s\" /> 소녀는 냄비를 집으로 가져갔어요. <break time=\"0.8s\" /> 엄마에게. <break time=\"0.8s\" /> 두 사람은 배고프지 않았어요 더 이상. <break time=\"0.8s\" /> 두 사람은 달콤한 죽을 먹었어요. <break time=\"0.8s\" /> 원할 때 언제든지."
+},
+{
+"out": "porridge_p3_cen",
+"voice": "C9fbwSpEaejywLWx722Z",
+"text": "One day. <break time=\"0.8s\" /> The girl went out. <break time=\"0.8s\" /> The mother was at home alone. <break time=\"0.8s\" /> She said. <break time=\"0.8s\" /> Cook, little pot, cook. <break time=\"0.8s\" /> The pot cooked. <break time=\"0.8s\" /> And she ate. <break time=\"0.8s\" /> Until she was full. <break time=\"0.8s\" /> Then she wanted the pot. <break time=\"0.8s\" /> To stop. <break time=\"0.8s\" /> But she did not know. <break time=\"0.8s\" /> The magic words. <break time=\"0.8s\" /> The pot cooked and cooked. <break time=\"0.8s\" /> The porridge went over the top of the pot."
+},
+{
+"out": "porridge_p3_fen",
+"voice": "C9fbwSpEaejywLWx722Z",
+"text": "One day the girl went out. <break time=\"0.8s\" /> The mother was at home alone. <break time=\"0.8s\" /> She said, Cook, little pot, cook. <break time=\"0.8s\" /> The pot cooked, and she ate until she was full. <break time=\"0.8s\" /> Then she wanted the pot to stop. <break time=\"0.8s\" /> But she did not know the magic words. <break time=\"0.8s\" /> The pot cooked and cooked. <break time=\"0.8s\" /> The porridge went over the top of the pot."
+},
+{
+"out": "porridge_p3_ckr",
+"voice": "ksaI0TCD9BstzEzlxj4q",
+"text": "어느 날. <break time=\"0.8s\" /> 소녀가 밖에 나갔어요. <break time=\"0.8s\" /> 엄마는 있었어요 집에 혼자. <break time=\"0.8s\" /> 엄마가 말했어요. <break time=\"0.8s\" /> 끓어라, 작은 냄비야, 끓어라. <break time=\"0.8s\" /> 냄비가 죽을 끓였어요. <break time=\"0.8s\" /> 그리고 엄마는 먹었어요. <break time=\"0.8s\" /> 배가 부를 때까지. <break time=\"0.8s\" /> 그러고 나서 엄마는 냄비가. <break time=\"0.8s\" /> 멈추기를 바랐어요. <break time=\"0.8s\" /> 하지만 엄마는 몰랐어요. <break time=\"0.8s\" /> 마법의 말을. <break time=\"0.8s\" /> 냄비는 끓고 또 끓었어요. <break time=\"0.8s\" /> 죽이 넘쳤어요 냄비 위로."
+},
+{
+"out": "porridge_p4_cen",
+"voice": "C9fbwSpEaejywLWx722Z",
+"text": "Soon the kitchen and the house. <break time=\"0.8s\" /> Were full of porridge. <break time=\"0.8s\" /> The porridge went. <break time=\"0.8s\" /> Into the next house. <break time=\"0.8s\" /> And the street. <break time=\"0.8s\" /> It was as if the pot wanted. <break time=\"0.8s\" /> To feed the whole world. <break time=\"0.8s\" /> No one knew. <break time=\"0.8s\" /> What to do. <break time=\"0.8s\" /> At last only one house. <break time=\"0.8s\" /> Was not full. <break time=\"0.8s\" /> Then the girl came home. <break time=\"0.8s\" /> And said. <break time=\"0.8s\" /> Stop, little pot. <break time=\"0.8s\" /> The pot stopped. <break time=\"0.8s\" /> At once. <break time=\"0.8s\" /> People had to eat their way. <break time=\"0.8s\" /> Back into town."
+},
+{
+"out": "porridge_p4_fen",
+"voice": "C9fbwSpEaejywLWx722Z",
+"text": "Soon the kitchen and the house were full of porridge. <break time=\"0.8s\" /> The porridge went into the next house and the street. <break time=\"0.8s\" /> It was as if the pot wanted to feed the whole world. <break time=\"0.8s\" /> No one knew what to do. <break time=\"0.8s\" /> At last, only one house was not full. <break time=\"0.8s\" /> Then the girl came home and said, Stop, little pot. <break time=\"0.8s\" /> The pot stopped at once. <break time=\"0.8s\" /> People had to eat their way back into town."
+},
+{
+"out": "porridge_p4_ckr",
+"voice": "ksaI0TCD9BstzEzlxj4q",
+"text": "곧 부엌과 집이. <break time=\"0.8s\" /> 죽으로 가득 찼어요. <break time=\"0.8s\" /> 죽은 흘러갔어요. <break time=\"0.8s\" /> 옆집으로. <break time=\"0.8s\" /> 그리고 길거리로. <break time=\"0.8s\" /> 마치 냄비가 원하는 것 같았어요. <break time=\"0.8s\" /> 온 세상을 먹이기를. <break time=\"0.8s\" /> 아무도 몰랐어요. <break time=\"0.8s\" /> 무엇을 해야 할지. <break time=\"0.8s\" /> 마침내 딱 한 채의 집만. <break time=\"0.8s\" /> 가득 차지 않았어요. <break time=\"0.8s\" /> 그때 소녀가 집에 왔어요. <break time=\"0.8s\" /> 그리고 말했어요. <break time=\"0.8s\" /> 멈춰라, 작은 냄비야. <break time=\"0.8s\" /> 냄비는 멈췄어요. <break time=\"0.8s\" /> 곧바로. <break time=\"0.8s\" /> 사람들은 먹으면서 길을 내야 했어요. <break time=\"0.8s\" /> 마을로 돌아가려면."
+}
+]
+}
