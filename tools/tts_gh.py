@@ -21,7 +21,7 @@ def call(path,body=None):
         except urllib.error.HTTPError as e:
             msg=e.read().decode(errors='replace')[:400]
             if e.code in (429,500,502,503) and k<3: print('  retry',e.code); time.sleep(10*(k+1)); continue
-            raise SystemExit(f'HTTP {e.code}: {msg}')
+            open(f'{OUT}/last_error.txt','w').write(f'HTTP {e.code}: {msg}\n'); raise SystemExit(f'HTTP {e.code}: {msg}')
 
 for jf in sorted(glob.glob('_tts_jobs/*.json')):
     J=json.load(open(jf,encoding='utf-8')); print('job',jf)
